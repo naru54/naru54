@@ -75,11 +75,6 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 📫 Connect With Me
 - 💼 Open to **Java Backend / Software Engineer** roles
 - 💬 Ask me about Java, Spring Boot, backend architecture
