@@ -2,7 +2,7 @@
 **naru54/naru54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi 👋 I'm Naru
+# Hi 👋 I'm Narmadha
 
 # 💫 About Me:
 💻 Java Developer | | 🌱Spring Boot | 🌐 REST APIs
