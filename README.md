@@ -72,11 +72,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=naru54&theme=radical&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=naru54&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naru54&layout=compact&theme=radical)
---!>
+-->
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 - 💼 Open to **Java Backend / Software Engineer** roles
 - 💬 Ask me about Java, Spring Boot, backend architecture
 
