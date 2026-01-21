@@ -74,7 +74,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naru54&layout=compact&theme=radical)
 -->
 
----
 
 ## 📫 Connect With Me
 - 💼 Open to **Java Backend / Software Engineer** roles
