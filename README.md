@@ -67,12 +67,12 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
-
+<!--
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=naru54&theme=radical&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=naru54&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naru54&layout=compact&theme=radical)
-
+--!>
 ---
 
 ## 📫 Connect With Me
