@@ -5,7 +5,7 @@
 # Hi 👋 I'm Narmadha
 
 # 💫 About Me:
-💻 Java Developer | | 🌱Spring Boot | 🌐 REST APIs
+💻 Java Developer | 🌱Spring Boot | 🌐 REST APIs | Microservices | SQL
 ☕ Learning, building, and improving every day — focused on clean, scalable backend systems.
 
 ---
